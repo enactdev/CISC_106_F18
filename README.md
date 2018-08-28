@@ -3,7 +3,13 @@ Class files for UD's CISC 106 as taught by me
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/enactdev/CISC_106_F18/master)
 
-Here you will find materials that were used, discussed, or created in class. 
+Click the binder link above to open this repository in an online notebook. (Right click to open in a new tab or window)
+
+If you miss a class, or want to review, open the notebook shared in that class and select menu item "Kernel => Restart & Clear Output." Then step through each notebook cell. (Hint: Shift + Enter is a keyboard shortcut to execute a cell and move to the next cell.)
+
+Use the scratchpad notebook to run test code as you work through problems. If you install Python on your own machine you can open a Python shell window instead.
+
+This repository will contain materials that were used, discussed, or created in class. 
 
 You do not have to create an account on GitHub, but you should.
 
@@ -14,6 +20,7 @@ This repository will be more useful if you run the code in your own notebooks. O
     * This will always have the lastest notebooks that I have posted for you to use
   * Cons
     * This will not save your changes. You can play around with it, but your changes will be lost
+    * It times out pretty quickly when not in use, and you'll need to relaunch
 * [Microsoft Azure Notebooks](https://notebooks.azure.com/)
   * Pros
     * You can pull my repository fron GitHub to run here
@@ -24,6 +31,7 @@ This repository will be more useful if you run the code in your own notebooks. O
     * Pulling the latest notebooks from GitHub is not trivial. If this is a popular option I will create a quick guide
 * [Anaconda](https://www.anaconda.com) -- Download and run notebooks on your own machine
   * Pros
+    * Brag to your friends that you installed Python on your own computer.
   * Cons
     * This is by far the hardest option, but also the most rewarding once you are done. 
     * There is no offical support from teachers or TAs for this option. There are plenty of guides online, and you can ask fellow students for help.
