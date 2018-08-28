@@ -9,9 +9,9 @@ If you miss a class, or want to review, open the notebook shared in that class a
 
 Use the scratchpad notebook to run test code as you work through problems. If you install Python on your own machine you can open a Python shell window instead.
 
-This repository will contain materials that were used, discussed, or created in class. 
+This repository will contain materials that were used, discussed, or created in class. Each class will include a file of notes creatd in Markdown, and one or more notebooks.
 
-You do not have to create an account on GitHub, but you should.
+You do not need to create an account on GitHub, but you should.
 
 This repository will be more useful if you run the code in your own notebooks. Options:
 * [mybinder.org](https://mybinder.org)
@@ -27,8 +27,10 @@ This repository will be more useful if you run the code in your own notebooks. O
     * You can also create your own and save code samples
     * No need to download and install anything
   * Cons
-    * Microsoft does not accept your udel.edu email for account creation, you will need to create another
-    * Pulling the latest notebooks from GitHub is not trivial. If this is a popular option I will create a quick guide
+    * Microsoft does not accept your udel.edu email for account creation, you will need to use a different email to create an account
+    * Pulling the latest notebooks from GitHub is not trivial, though you can always delete and reimport from your library
+  * Notes:
+    * Everything is based on a "library," import my GitHub repository from there
 * [Anaconda](https://www.anaconda.com) -- Download and run notebooks on your own machine
   * Pros
     * Brag to your friends that you installed Python on your own computer.
