@@ -1,19 +1,6 @@
 #!/usr/bin/python3
 # coding: utf-8
 
-"""
-
-Note: Some duplicates. 
-Example: VAUGHAN, DIANA IREY is #20 (last person second page) and #21 (first person 3rd page)
--- Only difference is committee: 
----- https://www.pavoterservices.pa.gov/ElectionInfo/CommitteeInfo.aspx?ID=10260
----- https://www.pavoterservices.pa.gov/ElectionInfo/CommitteeInfo.aspx?ID=14584
-
-
-"""
-
-#import sys
-
 import requests
 
 import re
@@ -23,23 +10,22 @@ from time import sleep
 from bs4 import BeautifulSoup
 
 
-
 url_base = 'https://automatetheboringstuff.com'
 
 # Read locally when debugging
-f = open('home.html', 'r')
-html = f.read()
-f.close()
+#f = open('home.html', 'r')
+#html = f.read()
+#f.close()
 
 # Read from web
-#r = requests.get(url_base)
-#html = r.text
+r = requests.get(url_base)
+html = r.text
 
 soup = BeautifulSoup(html, 'html.parser')
 
 soup_chapter_links = soup.find_all('a', href=re.compile('/chapter'))
 
-link_md = ''
+link_md = '# Section links for "Automate the Boring Stuff with Python"\n\n'
 
 for soup_link in soup_chapter_links:
 
@@ -49,16 +35,16 @@ for soup_link in soup_chapter_links:
 
     chapter_link = url_base+link_href
 
-    link_md += "# [{}]({})\n".format(link_text, chapter_link)
+    link_md += "## [{}]({})\n".format(link_text, chapter_link)
 
     # Read locally when debugging
-    f = open('chapter0.html', 'r')
-    html = f.read()
-    f.close()
+    #f = open('chapter0.html', 'r')
+    #html = f.read()
+    #f.close()
 
     # Read from web
-    #r = requests.get()
-    #html = r.text
+    r = requests.get(chapter_link)
+    html = r.text
 
     # Don't need original
     soup = BeautifulSoup(html, 'html.parser')
@@ -73,7 +59,9 @@ for soup_link in soup_chapter_links:
 
         link_md += "* [{}]({})\n".format(section_link_text, chapter_link+'#'+section_link_id)
 
-    break
+    #break
+
+    sleep(10)
 
     link_md += "\n"
 
