@@ -3,6 +3,29 @@ Class files for UD's CISC 106 as taught by me
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/enactdev/CISC_106_F18/master)
 
+## Resources
+
+
+
+## Topics
+* Week 1: Data types and basic usage
+* Week 2: Basic lists and intro to conditionals
+* Week 3: Functions
+* Week 4: Conditionals -- if statements and while loops
+* Week 5: Iterables
+* Week 6: 
+* Week 7: 
+* Week 8: 
+* Week 9: 
+* Week 10: 
+* Week 11: 
+* Week 12: 
+* Week 13: 
+* Week 14: 
+* Week 15: 
+
+
+
 Click the binder link above to open this repository in an online notebook. (Right click to open in a new tab or window)
 
 If you miss a class, or want to review, open the notebook shared in that class and select menu item "Kernel => Restart & Clear Output." Then step through each notebook cell. (Hint: Shift + Enter is a keyboard shortcut to execute a cell and move to the next cell.)
