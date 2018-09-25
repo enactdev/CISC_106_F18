@@ -24,6 +24,7 @@ Now, more on that "what if..."
 Basic age timeline here would be:
 
 |--|---------|--------------------------------|---------------|
+
 0  4         18                               65              Infinity
 
 Feel free to use scratch paper when coding! I do.
