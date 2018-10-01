@@ -22,10 +22,11 @@ Now, more on that "what if..."
  * Senior citizens get a discount, so there's also a big change at 65.
 
 Basic age timeline here would be:
-
+```
 |--|---------|--------------------------------|---------------|
 
 0  4         18                               65              Infinity
+```
 
 Feel free to use scratch paper when coding! I do.
 
