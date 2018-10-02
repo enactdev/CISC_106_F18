@@ -24,7 +24,7 @@ larger_int = 7
 my_max_num = max(my_int, larger_int)
 ```
 
-## 2) In the code above, what are the **arguments** to the ```max() function```?
+## 2) In the code above, what are the **arguments** to the ```max()``` function?
 #### A) max
 #### B) my_int, larger_int
 #### C) max, my_max_num
@@ -74,24 +74,24 @@ var2 = not (x and not y)
 
 ## 5) How would you define a function called ```mult_by_three``` and then call it with variable ```my_int``` that has a value of 5?
 ```
-* A) 
+# A) 
 def mult_by_three(a_number):
     return a_number * 3
 mult_by_three(5)
 
-* B) 
+# B) 
 define mult_by_three(a_number):
     return a_number * 3
 my_int = 5
 mult_by_three(my_int)
 
-* C) 
+# C) 
 function mult_by_three(a_number):
     return a_number * 3
 my_int = 5
 mult_by_three(my_int)
 
-* D) 
+# D) 
 def mult_by_three(a_number):
     return a_number * 3
 my_int = 5
@@ -105,19 +105,19 @@ mult_by_three(my_int)
 
 ## 6) How would you import the math library and then instantiate a variable ```pi_ceil``` with the ceiling of pi?
 ```
-* A) 
+# A) 
 import math
 pi_ceil = math.ceil(pi)
 
-* B) 
+# B) 
 import math
 pi_ceil = ceil(pi)
 
-* C) 
+# C) 
 import math
 pi_ceil = math.ceil(math.pi)
 
-* D) 
+# D) 
 import math
 pi_ceil = ceil(pi)
 ```
@@ -272,9 +272,39 @@ print(x, y)
 
 ---
 
+### 14) Given:
+```
+for my_num in [10, 20, 30]:
+    print(my_num // 2)
+```
+### 14) What is the output from the code above?
+* A) 5, 10, 15
+* B) ```10
+20
+30```
+* C) \[5, 10, 15\]
+* D) ```5
+10
+15```
+
+---
+
+---
+
+### 15) Which expression, A-D, will cause an error? If none select E.
+* A) 2018_election = 'Nov. 6, 2018'
+* B) election_2018 = 'Nov. 6, 2018'
+* C) election = 'Nov. 6, 2018'
+* D) election == 'Nov. 6, 2018'
+* E) None of these cause an error
+
+---
+
+---
+
 ---
 
 ---
 
 
-Answers: 1) D, 2) B, 3) A, 4) B, 5) D, 6) C, 7) B, 8) E, 9) C, 10) D, 11) B, 12) A, 13) D
+Answers: 1) D, 2) B, 3) A, 4) B, 5) D, 6) C, 7) B, 8) E, 9) C, 10) D, 11) B, 12) A, 13) D, 14) D, 15) A
