@@ -16,6 +16,8 @@
 
 ---
 
+## Given:
+
 ```
 my_int = 5
 larger_int = 7
@@ -33,6 +35,8 @@ my_max_num = max(my_int, larger_int)
 
 ---
 
+## Given:
+
 ```
 n = 5 * 7 + 2 * 3 - 1
 ```
@@ -48,6 +52,8 @@ n = 5 * 7 + 2 * 3 - 1
 ---
 
 ---
+
+## Given:
 
 ```
 x = True
@@ -121,6 +127,8 @@ pi_ceil = ceil(pi)
 
 ---
 
+## Given:
+
 ```
 def my_function(an_int):
        print("You passed:",  an_int)
@@ -141,6 +149,8 @@ n = my_function(my_int)
 
 ---
 
+## Given:
+
 ```
 a = 3
 b = 2
@@ -157,6 +167,8 @@ b = 2
 ---
 
 ---
+
+## Given:
 
 ```
 my_num = input("Enter any number: ")
@@ -176,6 +188,8 @@ print(half_my_num)
 
 ---
 
+## Given:
+
 ```
 mylist = [6, 8, 12, 13]
 
@@ -194,6 +208,8 @@ n = mylist[3] % mylist[1]
 
 ---
 
+## Given:
+
 ```
 i = 0
 while i < 10:
@@ -209,6 +225,8 @@ while i < 10:
 ---
 
 ---
+
+## Given:
 
 ```
 x = [10,20,30]
@@ -227,6 +245,8 @@ print(x)
 ---
 
 ---
+
+## Given:
 
 ```
 def swap(val1, val2):
