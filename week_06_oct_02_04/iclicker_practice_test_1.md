@@ -5,12 +5,12 @@
 ---
 
 
-## 1) If you need to know what the int() function does, what command will you use:
-#### A) docstring(int)
-#### B) help(int())
-#### C) from help import int
-#### D) help(int)
-#### E) # Docstring int
+## 1) If you need to know what the max() function does, what command will you use:
+#### A) docstring(max)
+#### B) help(max())
+#### C) from help import max
+#### D) help(max)
+#### E) # Docstring max
 
 ---
 
@@ -24,7 +24,7 @@ larger_int = 7
 my_max_num = max(my_int, larger_int)
 ```
 
-## 2) In the code above, what are the **arguments**?
+## 2) In the code above, what are the **arguments** to the ```max() function```?
 #### A) max
 #### B) my_int, larger_int
 #### C) max, my_max_num
