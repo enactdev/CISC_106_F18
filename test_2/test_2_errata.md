@@ -1,6 +1,11 @@
 
 # Test 2 Errata
 
+## If you use multiple lines for a question:
+   * Make sure the correct variable has the correct value
+   * on your last line
+
+
 ## One line of code spread out over 2 lines:
     * # 1-4: The final line, starting with 'my_str = '
     * # 5-6: The only like, starting with 'user_dictionary = '
