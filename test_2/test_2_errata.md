@@ -8,5 +8,6 @@
     * # 16-18: class mini-Docstring
     * # 19-22: class mini-Docstring
 
-## Code for the class used in the dubugging question, 19-22, was cut off.
-    * Additional page will be handed out. Write your name on it.
+## Code for questions 19-22 was cut off.
+    * Additional page will be handed out. 
+    * Write your name on it.
