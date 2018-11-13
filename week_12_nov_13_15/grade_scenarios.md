@@ -35,7 +35,7 @@
 * Final Exam: 90
 * Exam Average: 81.7
 
-**However, note that your quiz average is factored in with your exam grades *before* the ten point limit of averaging labs, projects, and attendance. From the sylabus: *Your final numerical grade cannot be more than 10 points higher than your exam+quiz average* **
+**However, note that your quiz average is factored in with your exam grades *before* the ten point limit of averaging labs, projects, and attendance. From the sylabus: *Your final numerical grade cannot be more than 10 points higher than your exam+quiz average***
 
 ### The "quiz" part can help.
 
