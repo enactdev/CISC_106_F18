@@ -4,13 +4,25 @@
 
 **Those who do have access to Matlab. Those who do not can use Matlab for free for 30 days. Our final exam is scheduled for Wednesday Dec. 12, so you are fine if you download it now.**
 
-*Alternatively, Octave is a free and open source implementation of Matlab, and is what I will probably be using for examples in class. I'll know more on Thursday.**
+**Alternatively, Octave is a free and open source implementation of Matlab, and is what I will probably be using for examples in class. I'll know more on Thursday.**
+
+---
+
+---
+
+---
 
 ## Lesson 1:
 
 **Indexing starts at 1.**
 
 **Any questions?**
+
+---
+
+---
+
+---
 
 ## Syntax:
 
