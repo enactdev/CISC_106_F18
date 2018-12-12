@@ -9,7 +9,9 @@
 
 ### #15: This is using i for item instead of index, my mistake there. *But* there is still a correct answer in the list. 
 
+### #27, the answer is B
 
+### #32 and #33 are matrix multiplication, which you were told you do not need to know. You can skip these, they will not be graded.
 
 
 
