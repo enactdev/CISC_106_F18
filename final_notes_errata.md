@@ -12,33 +12,3 @@
 ### #27, the answer is B
 
 ### #32 and #33 are matrix multiplication, which you were told you do not need to know. You can skip these, they will not be graded.
-
-
-
-
-
-
-
-
-
-
-
-
-###
-
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-.
-
-End
