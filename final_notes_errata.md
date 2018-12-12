@@ -7,6 +7,7 @@
 
 ## Final errata:
 
+### #15: This is using i for item instead of index, my mistake there. *But* there is still a correct answer in the list. 
 
 
 
